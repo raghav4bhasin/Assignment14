@@ -1,0 +1,4 @@
+
+In terms of syntax, the only difference is that you use parenthesis instead of square brackets.
+The type of data returned by list comprehensions and generator expressions differs.
+The generator yields one item at a time?—?thus it is more memory efficient than a list.
